@@ -111,7 +111,7 @@ Optionally,
 
 - Author: [Rahul M R](https://github.com/RahulMR42).
 - Collaborators: NA
-- Last release: July 2022
+- Last release: August 2022
 
 ## Contributing
 This project is open source.  Please submit your contributions by forking this repository and submitting a pull request!  Oracle appreciates any contributions that are made by the open-source community.
