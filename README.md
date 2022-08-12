@@ -100,7 +100,7 @@ $ pulumi config set objectstorage_bucket_name "MyObjectstore"
 ![](images/oci-pulumi-stack-delete.png)
 
 Optionally,
-- Delete stack files - `pulumi stack rm pulumi-java-oci-objectstorage`
+- Delete stack files - `pulumi stack rm dev`
 - Logout from pulumi - `pulumi logout`
 
 ## Read more
