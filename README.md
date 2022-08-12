@@ -83,7 +83,7 @@ $ pulumi config set objectstorage_bucket_name "MyObjectstore"
 
 - Use the keyboard `UP` arrow and select `yes`.Wait for the completion of all the tasks.
 
-![](images/oci-pulumi-up-details.png)
+![](images/oci-pulumi-up-done.png)
 
 - Validate the resources via [OCI Console](https://cloud.oracle.com) 
 
