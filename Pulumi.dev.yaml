@@ -1,6 +1,6 @@
 config:
   oci:fingerprint:
-    secure: xxxxxxxxxx
+    secure: xxxxxxxxx
   oci:privateKey:
     secure: xxxxxx
   oci:region:
