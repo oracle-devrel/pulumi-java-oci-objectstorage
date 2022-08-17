@@ -1,0 +1,3 @@
+name: pulumi-java-oci-objectstorage
+runtime: java
+description: OCI Pulumi Java Sample

@@ -1,0 +1,14 @@
+config:
+  oci:fingerprint:
+    secure: xxxxxxxxx
+  oci:privateKey:
+    secure: xxxxxx
+  oci:region:
+    secure: xxx
+  oci:tenancyOcid:
+    secure: xxxxx+xxxx
+  oci:userOcid:
+    secure: xxxx
+  pulumi-java-oci-objectstorage:compartment_description: My pulumi compartment
+  pulumi-java-oci-objectstorage:compartment_name: oci_pulumi_compartment
+  pulumi-java-oci-objectstorage:objectstorage_bucket_name: oci_pumi_bucket
